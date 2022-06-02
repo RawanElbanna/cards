@@ -1,1 +1,45 @@
+ img{
+    height: 182px;
+    width: 182px;
+    border-radius: 100%;
+    position: relative;
+    border: 3px solid #fff; 
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+.card1{
+    border-radius: 20px;
+    background: linear-gradient(to bottom right, #103D62,#011826, #5888A6);
+    margin-top: -100px;
+    height: 320px;
+}
+.card1 h3{
+    margin-top: 10px;
+    padding-top: 100px;
+    text-align: center;
+    color: #fff;
+}
+.btn{
+    background-color: #fff;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.icons{
+    text-align: center;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 13px;
+}
+.icons i{
+    padding-left: 7px;
+    font-size: 20px;
+}
+.card1 p{
+    color: #fff;
+    text-align: center;
 
+}
